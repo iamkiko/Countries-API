@@ -6,12 +6,11 @@ const Weather = ({ country }) => {
   //initial state for weather
   const [weather, setWeather] = useState("");
   const [displayWeather, setDisplayWeather] = useState(false);
-  console.log("weather: ", weather);
-  console.log("weather.current: ", weather.current);
+
   //using API with the specific country capital name for weather as per docs
   useEffect(() => {
     const key = `4dd06535601b78b0aa3200a31a2a0f43`;
-    const url = `http://api.weatherstack.com/current?access_key=${key}&query=${country.capital}`;
+    const url = `https://api.weatherstack.com/current?access_key=${key}&query=${country.capital}`;
     axios.get(url).then(response => {
       console.log("response.data: ", response.data);
       setWeather(response.data.current); //updating state based off JSON values
