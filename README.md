@@ -8,7 +8,8 @@ Find the project hosted [here.](https://iamkiko.github.io/Countries-API/)
 
 ### APIs used:
 - [Rest Countries API](https://github.com/apilayer/restcountries) and [official site](https://restcountries.eu/) for delivering the information about each country, upon search.
-- [Weatherstack API](https://weatherstack.com/documentation) for the weather data
+- [Open Weather Map API](https://openweathermap.org/api) for sourcing the information on weather.
+- ~~[Weatherstack API](https://weatherstack.com/documentation) for the weather data~~ _Doesn't support https:// for github pages, left as original on course repo but amended it here_
 
 
 
