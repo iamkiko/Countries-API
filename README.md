@@ -6,18 +6,18 @@ This project was one of the first on the Full Stack Open [curriculum](https://fu
 
 Find the project hosted [here.](https://iamkiko.github.io/Countries-API/)
 
-### APIs used: :key:
+### APIs used :key:
 - [Rest Countries API](https://github.com/apilayer/restcountries) and [official site](https://restcountries.eu/) for delivering the information about each country, upon search.
 - [Open Weather Map API](https://openweathermap.org/api) for sourcing the information on weather.
 - ~~[Weatherstack API](https://weatherstack.com/documentation) for the weather data~~ _Doesn't support https:// for github pages, left as original on [course repo](https://github.com/iamkiko/fullstackopen-2019/tree/master/part2/countries) but amended it here_
 
 
 
-### Tech Stack: :wrench:
+### Built with _(Tech Stack)_ :wrench:
 
-- React - The front end is powered by React for state management and dynamic rendering. It uses hooks such as useEffect to fetch data from the APIs & useState for internal state
-- Axios - HTTP requests to the APIs are returned using Axios promises and JSON data.
-- SCSS - Styling done with SCSS modules (basic)
+- __React__ - The front end is powered by React for state management and dynamic rendering. It uses hooks such as useEffect to fetch data from the APIs & useState for internal state
+- __Axios__ - HTTP requests to the APIs are returned using Axios promises and JSON data.
+- __SCSS__ - Styling done with SCSS modules (basic)
 
 
 ### Getting started :gear:
