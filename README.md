@@ -9,7 +9,7 @@ Find the project hosted [here.](https://iamkiko.github.io/Countries-API/)
 ### APIs used:
 - [Rest Countries API](https://github.com/apilayer/restcountries) and [official site](https://restcountries.eu/) for delivering the information about each country, upon search.
 - [Open Weather Map API](https://openweathermap.org/api) for sourcing the information on weather.
-- ~~[Weatherstack API](https://weatherstack.com/documentation) for the weather data~~ _Doesn't support https:// for github pages, left as original on course repo but amended it here_
+- ~~[Weatherstack API](https://weatherstack.com/documentation) for the weather data~~ _Doesn't support https:// for github pages, left as original on [course repo](https://github.com/iamkiko/fullstackopen-2019/tree/master/part2/countries) but amended it here_
 
 
 
