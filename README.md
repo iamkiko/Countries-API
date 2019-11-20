@@ -7,7 +7,7 @@ This project was one of the first on the Full Stack Open [curriculum](https://fu
 Find the project hosted [here.](https://iamkiko.github.io/Countries-API/)
 
 ### APIs used :key:
-- [Open Weather Map API](https://openweathermap.org/api) for sourcing the information on weather.
+- [Rest Countries API](https://github.com/apilayer/restcountries) and [official site](https://restcountries.eu/) for delivering the information about each country, upon search.
 - [Weatherstack API](https://weatherstack.com/documentation) for the weather data. _They were kind enough to provide a free trial for 3 months, to allow https access for GitHub pages._
 
 
