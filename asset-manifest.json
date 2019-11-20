@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Countries-API/static/css/main.c85c7268.chunk.css",
-    "main.js": "/Countries-API/static/js/main.99b283c5.chunk.js",
-    "main.js.map": "/Countries-API/static/js/main.99b283c5.chunk.js.map",
+    "main.js": "/Countries-API/static/js/main.3c071b82.chunk.js",
+    "main.js.map": "/Countries-API/static/js/main.3c071b82.chunk.js.map",
     "runtime~main.js": "/Countries-API/static/js/runtime~main.52a4f1bd.js",
     "runtime~main.js.map": "/Countries-API/static/js/runtime~main.52a4f1bd.js.map",
     "static/js/2.c84082e0.chunk.js": "/Countries-API/static/js/2.c84082e0.chunk.js",
     "static/js/2.c84082e0.chunk.js.map": "/Countries-API/static/js/2.c84082e0.chunk.js.map",
     "index.html": "/Countries-API/index.html",
-    "precache-manifest.80adab14e77ef3af78a48e1782bbb554.js": "/Countries-API/precache-manifest.80adab14e77ef3af78a48e1782bbb554.js",
+    "precache-manifest.9b300418ff1ecae6c376f1e09af83a9e.js": "/Countries-API/precache-manifest.9b300418ff1ecae6c376f1e09af83a9e.js",
     "service-worker.js": "/Countries-API/service-worker.js",
     "static/css/main.c85c7268.chunk.css.map": "/Countries-API/static/css/main.c85c7268.chunk.css.map"
   }
